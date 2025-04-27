@@ -3,7 +3,7 @@ QAP Tool for 2 to 10 Departments
 Authors: Brent Thames & Ryan Griffeth
 
 ****** READ ME BEFORE RUNNING ******
-You need to enter your Gurobi credentials on lines 240-242
+You need to enter your Gurobi credentials on lines 244-246.
 Flow matrix 'f', facility dimensions 'space', and department areas 'a' must follow
 the same format as the provided test cases.
 'f' can be asymmetric OR upper triangular.
